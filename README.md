@@ -1,6 +1,6 @@
 # cFS: Data Storage
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-ds.svg)](https://github.com/yusend/cfs-ds/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-ds.svg)](https://github.com/lassondesat/cfs-ds/releases)
 
 * [Original README](cfs-ds-app-OSS-readme.txt)
 
@@ -33,6 +33,6 @@ onboard storage location to where they will be viewed and processed.
 
 * https://sourceforge.net/projects/cfs-ds/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
-[cfs_lib]: https://github.com/yusend/cfs_lib
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
+[cfs_lib]: https://github.com/lassondesat/cfs_lib
